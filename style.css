@@ -1,0 +1,15 @@
+.dcyan
+{
+    background-color: rgb(214,210,199);
+}
+.cyan
+{
+    background-color: rgb(235,223,227);
+}
+.tab tr,.tab th,.tab td
+{   
+    border: 2px solid black;
+}
+.tab{
+    border-collapse: collapse;
+}
